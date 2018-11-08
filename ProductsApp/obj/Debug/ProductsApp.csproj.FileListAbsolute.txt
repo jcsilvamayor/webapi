@@ -61,3 +61,5 @@ C:\Users\jose.silva\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.c
 C:\Users\jose.silva\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
 C:\Users\jose.silva\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
 C:\Users\jose.silva\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\jose.silva\source\repos\webapi\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\jose.silva\source\repos\webapi\ProductsApp\obj\Debug\ProductsApp.pdb
